@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d142a34e-fbeb-4762-9530-061588004e8e" alt="Vista previa de AGREAS" width="722" height="476" />
+  <img src="https://github.com/user-attachments/assets/d142a34e-fbeb-4762-9530-061588004e8e" alt="Vista previa de AGREAS" width="722" height="260" />
 </p>
-
 # AGREAS
 
 **AGREAS** es un videojuego de **Survival Horror cooperativo en línea** con estética *Low Poly*, ambientado en unas alcantarillas hostiles en el año **2010**.
